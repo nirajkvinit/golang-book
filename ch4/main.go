@@ -8,9 +8,9 @@ func main() {
 		fmt.Println(i)
 		i++
 	}*/
-	/*for i := 1; i <= 10; i++ {
+	for i := 1; i <= 10; i++ {
 		fmt.Println(i)
-	}*/
+	}
 	/* Follwing doesn't work
 	for (i := 1; i <= 10; i++) {
 		fmt.Println(i)
